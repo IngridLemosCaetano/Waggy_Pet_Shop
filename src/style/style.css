@@ -1,7 +1,17 @@
-*{
-    margin: 0;
-    padding: 0;
-    border: 0;
-    text-decoration: none;
-    list-style: none;
+.root{
+
+}
+.font-menu{
+    font-family: "Delius", cursive;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.font-h1{
+    font-family: "Delius", cursive;
+}
+
+
+.montserrat{
+    font-family: "Montserrat", sans-serif;
 }
